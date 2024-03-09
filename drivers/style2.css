@@ -110,7 +110,7 @@ form .button input:hover{
  opacity: 0.8;
 }
 
-@media (max=width: 584px) {
+@media (max-width: 584px) {
     .container{
         max-width: 100%;
     }
